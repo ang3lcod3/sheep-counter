@@ -15,3 +15,5 @@ function save() {
     count = 0
 }
 
+import imgUrl from "sheep.avif"
+document.getElementById("sheep.avif").src = imgUrl
